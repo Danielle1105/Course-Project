@@ -1,0 +1,36 @@
+Subject: 30 numbers(1 to 30)symbolize 30 people who take part in the experiment
+Activity: the kind of activity which people do
+tBodyAcc-mean()-XYZ:the mean of the body acceleration in 3-axial signals in the X, Y and Z directions.
+tGravityAcc-mean()-XYZ:the mean of the body acceleration in 3-axial signals in the X, Y and Z directions.
+tBodyAccJerk-mean()-XYZ:the mean of the body linear acceleration to obtain Jerk signals in 3-axial signals in the X, Y and Z directions.
+tBodyGyro-mean()-XYZ:
+tBodyGyroJerk-mean()-XYZ
+tBodyAccMag-mean()
+tGravityAccMag-mean()
+tBodyAccJerkMag-mean()
+tBodyGyroMag-mean()
+tBodyGyroJerkMag-mean()
+fBodyAcc-mean()-XYZ
+fBodyAccJerk-mean()-XYZ
+fBodyGyro-mean()-XYZ
+fBodyAccMag-mean()
+fBodyAccJerkMag-mean()
+fBodyGyroMag-mean()
+fBodyGyroJerkMag-mean()
+tBodyAcc-std()-XYZ
+tGravityAcc-std()-XYZ 
+tBodyAccJerk-std()-XYZ
+tBodyGyro-std()-XYZ
+tBodyGyroJerk-std()-XYZ
+tBodyAccMag-std()
+tGravityAccMag-std()
+tBodyAccJerkMag-std()
+tBodyGyroMag-std()
+tBodyGyroJerkMag-std()
+fBodyAcc-std()-XYZ
+fBodyAccJerk-std()-XYZ
+fBodyGyro-std()-XYZ
+fBodyAccMag-std()
+fBodyBodyAccJerkMag-std()
+fBodyBodyGyroMag-std()
+fBodyBodyGyroJerkMag-std()
